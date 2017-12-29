@@ -56,6 +56,11 @@ module.exports = {
 
     description: {
       type: 'string'
+    },
+
+    contacts: {
+      collection: 'contact',
+      via: 'producer'
     }
 
   }

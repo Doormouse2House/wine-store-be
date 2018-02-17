@@ -30,10 +30,6 @@ module.exports = {
       required: true
     },
 
-    appellation: {
-      type: 'string'
-    },
-
     owner: {
       type: 'string'
     },

@@ -43,11 +43,11 @@ module.exports = {
     },
 
     planted_hectares: {
-      type: 'number'
+      type: 'integer'
     },
 
     total_production: {
-      type: 'number'
+      type: 'integer'
     },
 
     description: {
